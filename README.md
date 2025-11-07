@@ -3,5 +3,10 @@ Apps that are confirmed working on Amazon Fire TV Stick:
 
 Downloader code to this page: 2356915 
 
-1. Chrome:  https://www.apkmirror.com/apk/google-inc/chrome/chrome-96-0-4664-92-release/google-chrome-fast-secure-96-0-4664-92-3-android-apk-download/
-2. AceStream:  https://android.acestream.net/download/apk
+1. Chrome:  https://www.apkmirror.com/apk/google-inc/chrome/chrome-96-0-4664-92-release/google-chrome-fast-secure-96-0-4664-92-3-android-apk-download/ (Downloader code: 2657036)
+2. AceStream:  https://android.acestream.net/download/apk (Downloader code: 194007)
+
+Backup (Mega.nz)
+
+1. Chrome: https://mega.nz/file/kclEQTLQ#VgFu1Y2tIp8p0S6J2KhrWDUO8lCBYnzQLErtFqLQDtE  (Downloader code: 9969358)
+2. AceStream:  https://mega.nz/file/0MlgwLTR#Dl6rcOVhBvqPVJamokWV1MYqawewdl_ktNWy26oe3ik  (Downloader code: 7053985)
